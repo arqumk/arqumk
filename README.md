@@ -1,80 +1,70 @@
-<table>
-  <tr>
-    <td width="200px" align="center">
-      <img src="./arqum-LI.jpeg" width="150" style="border-radius: 10%;" alt="Arqum Profile Picture" />
-      <br/>
-      <strong>Arqum Khurshid</strong><br/>
-      <em>Data Scientist | LLM Engineer</em><br/><br/>
-      <a href="mailto:arqum.khurshid@gmail.com">
-        <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
-      </a>
-      <br/>
-      <a href="https://linkedin.com/in/arqum-k">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" />
-      </a>
-      <br/>
-      <a href="https://github.com/arqumk">
-        <img src="https://img.shields.io/github/followers/arqumk?style=social" />
-      </a>
-      <br/>
-      <img src="https://komarev.com/ghpvc/?username=arqum-k&label=Visitors&color=0e75b6&style=flat" />
-    </td>
-    <td>
+<h1 align="center">Hi there 👋, I'm Arqum Khurshid</h1>
+<h3 align="center">Data Scientist | LLM Engineer</h3>
 
-### 👋 Hi there, I'm Arqum Khurshid
+<p align="center">
+  <a href="mailto:arqum.khurshid@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/arqum-k"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/arqumk"><img src="https://img.shields.io/github/followers/arqumk?label=Follow&style=for-the-badge&logo=github" /></a>
+  <img src="https://komarev.com/ghpvc/?username=arqumk&style=for-the-badge" alt="profile views"/>
+</p>
 
-Lahore-based 🇵🇰 **Data Scientist & LLM Engineer** with 3+ years of hands-on experience in:
+---
+
+### 🧠 About Me
+
+I'm a Lahore-based 🇵🇰 **Data Scientist & LLM Engineer** with 3+ years of experience in:
 
 - 🌐 Large Language Models (LLMs)
-- 🧠 Deep Learning & Machine Learning
+- 🤖 Deep Learning & Machine Learning
 - 📊 NLP, RAG Systems, Generative AI
 - ☁️ Cloud deployment on Azure & AWS
 
-Currently working at **Turing** on SFT & RLHF pipelines. Previously led production-grade AI at **Horrizon AI**.
+Currently working at **Turing** on SFT & RLHF pipelines. Previously led AI deployment at **Horrizon AI**.
 
 ---
 
 ### 🛠 Tech Stack
 
-<table>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="30"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="30"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30"/></td>
-  </tr>
-</table>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35"/>
+</p>
 
 ---
 
 ### 🚀 Featured Projects
 
 - **💊 RAG-Based Medical Chatbot**  
-  Chatbot with MMR re-ranking using OpenAI + LangChain + Pinecone  
+  MMR-ranked Q&A using OpenAI + LangChain + Pinecone  
   _**Tech:** RAG, Streamlit, Azure, OpenAI_
 
 - **🎙 AI-Generated Meeting Minutes**  
-  Audio/video summarizer via Whisper + LLaMA2 + Flan-T5  
+  Whisper + LLaMA2 + Flan-T5 for audio/video summarization  
   _**Tech:** Whisper, PEFT, FastAPI, Azure_
 
 - **📈 Sales Forecasting Pipeline**  
-  Fully automated model training and inference  
+  Automated model retraining + forecast API  
   _**Tech:** Python, SQL, Oracle, Bash_
 
 - **📂 Excel ETL API**  
-  Flask API to clean/standardize messy Excel files  
+  Flask-based pipeline for messy Excel file standardization  
   _**Tech:** Flask, Word2Vec, Azure_
 
 ---
 
 ### 📚 Currently Learning
 
-- LangChain agents for multi-step reasoning  
-- Fine-tuning LLaMA 3 / Mistral models  
-- Vector DBs: FAISS, Weaviate  
+- 🧠 LangChain agents for reasoning  
+- 🔧 Fine-tuning LLaMA 3 & Mistral  
+- 📦 Vector DBs: FAISS, Weaviate
 
 ---
 
@@ -107,6 +97,3 @@ Currently working at **Turing** on SFT & RLHF pipelines. Previously led producti
 ### 💬 Quote I Live By
 
 > _"Solving real-world problems through code and curiosity."_
-
-</td></tr>
-</table>
