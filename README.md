@@ -1,4 +1,3 @@
-<h1 align="center">Hi there 👋, I'm Arqum Khurshid</h1>
 <h3 align="center">Data Scientist | LLM Engineer</h3>
 
 <p align="center">
