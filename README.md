@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td width="200px" align="center">
-      <img src="./profile.png" width="150" style="border-radius: 10%;" alt="Arqum Profile Picture" />
+      <img src="./arqum-LI.jpeg" width="150" style="border-radius: 10%;" alt="Arqum Profile Picture" />
       <br/>
       <strong>Arqum Khurshid</strong><br/>
       <em>Data Scientist | LLM Engineer</em><br/><br/>
@@ -39,7 +39,6 @@ Currently working at **Turing** on SFT & RLHF pipelines. Previously led producti
 <table>
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30"/></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30"/></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="30"/></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30"/></td>
