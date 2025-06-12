@@ -1,78 +1,113 @@
-<h1 align="center">Hi there 👋, I'm Arqum Khurshid</h1>
-<h3 align="center">Data Scientist | LLM Engineer</h3>
+<table>
+  <tr>
+    <td width="200px" align="center">
+      <img src="./profile.png" width="150" style="border-radius: 10%;" alt="Arqum Profile Picture" />
+      <br/>
+      <strong>Arqum Khurshid</strong><br/>
+      <em>Data Scientist | LLM Engineer</em><br/><br/>
+      <a href="mailto:arqum.khurshid@gmail.com">
+        <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+      </a>
+      <br/>
+      <a href="https://linkedin.com/in/arqum-k">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" />
+      </a>
+      <br/>
+      <a href="https://github.com/arqumk">
+        <img src="https://img.shields.io/github/followers/arqumk?style=social" />
+      </a>
+      <br/>
+      <img src="https://komarev.com/ghpvc/?username=arqum-k&label=Visitors&color=0e75b6&style=flat" />
+    </td>
+    <td>
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/87085910?v=4" alt="Arqum Khurshid" width="150" style="border-radius:50%"/>
-</p>
+### 👋 Hi there, I'm Arqum Khurshid
 
-<p align="center">
-  <a href="mailto:arqum.khurshid@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/arqum-k"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"/></a>
-  <a href="https://github.com/arqumk"><img src="https://img.shields.io/github/followers/arqumk?style=social"/></a>
-  <img src="https://komarev.com/ghpvc/?username=arqum-k&label=Visitors&color=0e75b6&style=flat" alt="profile views"/>
-</p>
-
----
-
-🎯 **About Me**
-
-I'm a Lahore-based 🇵🇰 **Data Scientist & LLM Engineer** with 3+ years of experience in:
+Lahore-based 🇵🇰 **Data Scientist & LLM Engineer** with 3+ years of hands-on experience in:
 
 - 🌐 Large Language Models (LLMs)
 - 🧠 Deep Learning & Machine Learning
 - 📊 NLP, RAG Systems, Generative AI
 - ☁️ Cloud deployment on Azure & AWS
 
-Currently at **Turing**, I focus on fine-tuning LLMs (SFT, RLHF) and building AI solutions. Previously at **Horrizon AI**, I led deployments for intelligent chatbots, meeting summarizers, and forecasting models.
+Currently working at **Turing** on SFT & RLHF pipelines. Previously led production-grade AI at **Horrizon AI**.
 
 ---
 
-🛠️ **Tech Stack**
+### 🛠 Tech Stack
 
-```yaml
-Languages:         Python, SQL, JavaScript
-ML/DL Frameworks:  scikit-learn, Keras, HuggingFace, OpenAI, LangChain
-Web/Cloud Tools:   Flask, FastAPI, Streamlit, Azure App Services, Docker
-Deployment:        MS Azure (ML Studio, Synapse, Fabric), AWS, Pinecone
-Other:             Git, GitHub, Whisper, Llama 2, Flan T5
+<table>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="30"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="30"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30"/></td>
+  </tr>
+</table>
 
-🚀 Featured Projects
+---
 
-💊 RAG-Based Medical Chatbot
-LangChain + OpenAI + Pinecone chatbot with MMR re-ranking and Streamlit UI.
-Tech: RAG, LangChain, OpenAI API, Azure, Streamlit
+### 🚀 Featured Projects
 
-🎙️ AI-Generated Meeting Minutes
-Transcribed audio/video via Whisper → summarized with LLaMA2 & Flan-T5.
-Tech: Whisper, LLaMA 2, PEFT, Flan T5, FastAPI, Azure
+- **💊 RAG-Based Medical Chatbot**  
+  Chatbot with MMR re-ranking using OpenAI + LangChain + Pinecone  
+  _**Tech:** RAG, Streamlit, Azure, OpenAI_
 
-📈 Forecasting Sales Trends
-Regression-based forecasting system with scheduled retraining.
-Tech: Python, SQL, Oracle DB, Bash, Linux
+- **🎙 AI-Generated Meeting Minutes**  
+  Audio/video summarizer via Whisper + LLaMA2 + Flan-T5  
+  _**Tech:** Whisper, PEFT, FastAPI, Azure_
 
-📂 Excel ETL Pipeline API
-Flask API for structured extraction from messy Excel sheets.
-Tech: Flask, Word2Vec, Azure App Services
+- **📈 Sales Forecasting Pipeline**  
+  Fully automated model training and inference  
+  _**Tech:** Python, SQL, Oracle, Bash_
 
-📚 Currently Learning
+- **📂 Excel ETL API**  
+  Flask API to clean/standardize messy Excel files  
+  _**Tech:** Flask, Word2Vec, Azure_
 
-LangChain agents for multi-step reasoning
+---
 
-Fine-tuning LLaMA 3 / Mistral models
+### 📚 Currently Learning
 
-Vector DBs: FAISS, Weaviate
+- LangChain agents for multi-step reasoning  
+- Fine-tuning LLaMA 3 / Mistral models  
+- Vector DBs: FAISS, Weaviate  
 
-📊 GitHub Stats (dark/light auto mode)
+---
 
-<p align="center"> <picture> <source srcset="https://github-readme-stats.vercel.app/api?username=arqum-k&show_icons=true&theme=default" media="(prefers-color-scheme: light)" /> <source srcset="https://github-readme-stats.vercel.app/api?username=arqum-k&show_icons=true&theme=tokyonight" media="(prefers-color-scheme: dark)" /> <img src="https://github-readme-stats.vercel.app/api?username=arqum-k&show_icons=true" /> </picture> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arqum-k&layout=compact&theme=tokyonight" /> </p>
-🏆 GitHub Trophies
+### 📊 GitHub Stats
 
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=arqum-k&theme=gruvbox&row=1&column=7" /> </p>
-🤝 Let’s Connect
+<p align="center">
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=arqumk&show_icons=true&theme=default"
+      media="(prefers-color-scheme: light)" />
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=arqumk&show_icons=true&theme=tokyonight"
+      media="(prefers-color-scheme: dark)" />
+    <img src="https://github-readme-stats.vercel.app/api?username=arqumk&show_icons=true" />
+  </picture>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arqumk&layout=compact&theme=tokyonight" />
+</p>
 
-📧 Email: arqum.khurshid@gmail.com
+---
 
-🔗 LinkedIn
+### 🏆 GitHub Trophies
 
-💬 Quote I Live By
-"Solving real-world problems through code and curiosity."
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=arqumk&theme=gruvbox&row=1&column=7" />
+</p>
+
+---
+
+### 💬 Quote I Live By
+
+> _"Solving real-world problems through code and curiosity."_
+
+</td></tr>
+</table>
